@@ -9,3 +9,8 @@ Requires StructureSaver2 v2.15 or higher.
 
 # Usage
 Load this mod before StructureSaver2 -mod.
+
+
+# License
+
+This software is licensed under [The GNU General Public License version 3](LICENSE).
